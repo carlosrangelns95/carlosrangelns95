@@ -1,5 +1,9 @@
-# 👋 Olá! Seja bem vindo! 
+# Olá! Seja bem vindo! 
 
 💻 Desenvolvedor Full Stack  
-🌐 Portfólio: [meusite.com](https://portifolio-nine-silk-32.vercel.app/)
-📫 Contato: [LinkedIn](https://linkedin.com/in/seulinkedin) | [Twitter](https://twitter.com/seutwitter)
+🌐 Portfólio: [carlosrangel-portf.com](https://portifolio-nine-silk-32.vercel.app/)
+📫 Linkedin: [LinkedIn](https://www.linkedin.com/in/carlosrangelns95/)
+📫 Email: [carlos.rangel.ns95@gmail.com](mailto:carlos.rangel.ns95@gmail.com)
+
+![WakaTime Languages](https://github-readme-stats.vercel.app/api/wakatime?username=carlosrangelnunes&layout=compact&theme=radical)
+
