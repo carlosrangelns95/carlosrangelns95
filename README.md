@@ -5,5 +5,4 @@
 📫 Linkedin: [LinkedIn](https://www.linkedin.com/in/carlosrangelns95/)  
 📫 Email: [carlos.rangel.ns95@gmail.com](mailto:carlos.rangel.ns95@gmail.com)  
 
-![WakaTime Languages](https://github-readme-stats.vercel.app/api/wakatime?username=carlosrangelnunes&layout=compact&theme=radical)
-
+![WakaTime Languages](https://wakatime.com/share/@carlosrangelnunes/f3527775-dcea-4fcc-b791-6db560aabb43.svg)
